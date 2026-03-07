@@ -1,0 +1,11 @@
+[
+    {
+        "input": {
+            "cheap_box": 25,
+            "expensive_box": 0
+        },
+        "output": [
+            200
+        ]
+    }
+]

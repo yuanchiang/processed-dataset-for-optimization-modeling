@@ -1,0 +1,17 @@
+[
+    {
+        "input": {
+            "experiment_1": 10,
+            "experiment_2": 0,
+            "constraint_1": 3,
+            "constraint_2": 4,
+            "constraint_3": 5,
+            "constraint_4": 5,
+            "constraint_5": 1,
+            "constraint_6": 2
+        },
+        "output": [
+            50.0
+        ]
+    }
+]

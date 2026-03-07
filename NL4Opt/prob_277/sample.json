@@ -1,0 +1,11 @@
+[
+    {
+        "input": {
+            "mechanical": 110,
+            "standard_keyboards": 22
+        },
+        "output": [
+            136
+        ]
+    }
+]

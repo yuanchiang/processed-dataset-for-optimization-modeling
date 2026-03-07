@@ -1,0 +1,16 @@
+[
+    {
+        "input": {
+            "cart": 7,
+            "hand": 3,
+            "cart_all_ratio": 0.7,
+            "hand_lb": 3,
+            "cart_interaction": 70,
+            "hand_interaction": 85,
+            "hour_interaction": 4000
+        },
+        "output": [
+            330.0
+        ]
+    }
+]

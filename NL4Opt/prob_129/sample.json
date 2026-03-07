@@ -1,0 +1,11 @@
+[
+    {
+        "input": {
+            "throat_swabs": 3478,
+            "nasal_swabs": 869
+        },
+        "output": [
+            4347
+        ]
+    }
+]

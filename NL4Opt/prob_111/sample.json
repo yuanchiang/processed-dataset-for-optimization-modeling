@@ -1,0 +1,11 @@
+[
+    {
+        "input": {
+            "crab_cakes": 16,
+            "lobster_roll": 0
+        },
+        "output": [
+            64
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "input": {
+            "ferry": 6,
+            "light_rail": 26
+        },
+        "output": [
+            32
+        ]
+    }
+]
