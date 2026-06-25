@@ -41,8 +41,6 @@ the original licenses of each upstream dataset apply to the derived material:
 
 ## Notes
 
-- All optima are re-verified with Gurobi. A small number of MAMO instances whose
-  published ground truth could not be reproduced were re-modeled; consult the
-  paper for details.
+- All optima are re-verified with Gurobi.
 - These subsets are smaller than the original benchmarks by design: instances
   whose labels could not be verified were excluded.
