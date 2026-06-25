@@ -1,0 +1,4 @@
+{
+  "en_question": "The Car Selection Problem is a mixed integer programming model that aims to assign participants to cars in a way that maximizes the total number of assignments. The problem involves a set of participants and a set of cars, where each participant is interested in a subset of cars. The objective is to find the optimal assignment of participants to cars that satisfies certain constraints.\n\nVariable explanations:\nArgs:\n        participants: list, the set of all participants.\n        cars: list, the set of all cars.\n        possible_assignments: 2D list, PossibleAssignments[i][j] indicates whether participant i is interested in car j.\n\n    Returns:\n        total_combinations: an integer, denotes the total number of assignments after optimization.\n\nVariable assignments:\n{\"participants\": [\"P1\", \"P2\", \"P3\"], \"cars\": [\"C1\", \"C2\", \"C3\"], \"possible_assignments\": [[1, 0, 1], [0, 1, 0], [1, 1, 1]]}",
+  "en_answer": 3.0
+}

@@ -1,0 +1,4 @@
+{
+  "en_question": "The Knapsack Problem is a classic optimization problem in operations research and computer science. The problem is to determine the most valuable combination of items to include in a knapsack, given a set of items with different values and weights, and a maximum weight capacity of the knapsack. The goal is to maximize the total value of the items in the knapsack without exceeding its weight capacity.\n\nVariable explanations:\nArgs:\n        item_values: a list of integers, indicating the value of each item\n        item_weights: a list of integers, indicating the weight of each item\n        max_weight_knapsack: an integer, denotes the maximum weight capacity of the knapsack\n\n    Returns:\n        max_total_value: a float, denotes the maximum total value of the items in the knapsack\n\nVariable assignments:\n{\"item_values\": [60, 100, 120], \"item_weights\": [10, 20, 30], \"max_weight_knapsack\": 50}",
+  "en_answer": 220.0
+}
