@@ -10,11 +10,11 @@ re-verified every optimum with Gurobi and release the resulting curated subsets.
 
 ## Contents
 
-| Dataset | Folder | #Instances | Type |
-|---|---|---|---|
-| NL4Opt | `NL4Opt_clean/` | 231 | LP |
-| ComplexOR | `ComplexOR_clean/` | 18 | LP / MILP |
-| MAMO (complex-LP split) | `Mamo_complex_lp_clean/` | 115 | LP / MILP |
+| Dataset | Folder | #Instances |
+|---|---|---|
+| NL4Opt | `NL4Opt_clean/` | 231 |
+| ComplexOR | `ComplexOR_clean/` | 18 |
+| MAMO (complex-LP split) | `Mamo_complex_lp_clean/` | 115 |
 
 ## Per-instance format
 
